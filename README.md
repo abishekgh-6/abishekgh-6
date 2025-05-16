@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Abishek
-- 👀 I’m interested in learning new thing.
-- 😄 Pronouns: He/Him
+
   
 
 <!---
