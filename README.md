@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/From-Nepal%20🇳🇵-green?style=for-the-badge" alt="Location" />
 </p>
 
-I'm a beginner programmer passionate about learning new things and building small projects.  
+I'm a programmer passionate about learning new things and building small projects.  
 Currently exploring Python and Java!
 
 ### 🛠️ Languages & Tools
