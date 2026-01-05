@@ -6,11 +6,11 @@
   <img src="https://img.shields.io/badge/From-Nepal%20🇳🇵-green?style=for-the-badge" alt="Location" />
 </p>
 
-I'm a programmer passionate about learning new things and building projects.  
+<!--I'm a programmer passionate about learning new things and building projects.  
 Currently exploring Python and Java!
 
 ### 🛠️ Languages & Tools
-![Skills](https://skillicons.dev/icons?i=python,java,cpp,c,html,css,git,linux,vscode&perline=9)
+![Skills](https://skillicons.dev/icons?i=python,java,cpp,c,html,css,git,linux,vscode&perline=9)-->
 
 <!--### 📊 Contribution Graph
 <p align="center">
