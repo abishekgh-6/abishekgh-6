@@ -5,6 +5,9 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/From-Nepal%20🇳🇵-green?style=for-the-badge" alt="Location" />
 </p>
+<!-- <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=abishekgh-6&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Total visits" />
+</p> -->
 
 <!--I'm a programmer passionate about learning new things and building projects.  
 Currently exploring Python and Java!
